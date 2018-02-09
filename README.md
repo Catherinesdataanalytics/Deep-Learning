@@ -9,7 +9,8 @@ Tenserflow makes life easier, Keras is even better.
 * [Keras builtin Datasets](https://keras.io/datasets/)
 
 # Key parameters introduction
-* [Gradient Descent Optimization](http://ruder.io/optimizing-gradient-descent/index.html#rmsprop)
+* [Different Gradient Descent Optimization Theory](http://ruder.io/optimizing-gradient-descent/index.html#rmsprop)
+* [Grid Search Hyperparameters in Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
 
 # CNN 
 
