@@ -1,5 +1,5 @@
 # DeepLearning
-* Tenserflow makes life easier, Keras is even better.
+Tenserflow makes life easier, Keras is even better.
 # Tensorflow
 * [Try tuning parameters in Tensorflow Playground](http://playground.tensorflow.org)
 
