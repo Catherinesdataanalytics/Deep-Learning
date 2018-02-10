@@ -1,5 +1,11 @@
 # DeepLearning
 Tenserflow makes life easier, Keras is even better.
+
+# BOOKS
+* [GrokkingDL](https://www.manning.com/books/grokking-deep-learning)
+* [Neural Networks And Deep Learning by Michael Nielsen] (http://neuralnetworksanddeeplearning.com) This book is more rigorous than Grokking Deep Learning and includes a lot of fun, interactive visualizations to play with.
+* [The Deep Learning Textbook from Ian Goodfellow](http://www.deeplearningbook.org)
+
 # Tensorflow
 * [Try tuning parameters in Tensorflow Playground](http://playground.tensorflow.org)
 
@@ -13,7 +19,6 @@ Tenserflow makes life easier, Keras is even better.
 * [Grid Search Hyperparameters in Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
 
 # CNN 
-
 * [CS231N: CNN for Visual Recogniton](http://cs231n.github.io/neural-networks-1/#actfun)
 * [MLMastery](https://machinelearningmastery.com/category/deep-learning/)
 * [Interactive Guide to DL] (http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
@@ -21,6 +26,10 @@ Tenserflow makes life easier, Keras is even better.
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 * [Text Classification](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 
+# Examples
+[DLforGamePlaying](https://github.com/yenchenlin/DeepLearningFlappyBird)
+[DLforSelfDrivingCars](https://selfdrivingcars.mit.edu/deeptraffic/)
+[DLforFastStyleTransfer](https://github.com/lengstrom/fast-style-transfer)
 
 
 
