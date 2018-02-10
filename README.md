@@ -3,8 +3,7 @@ Tenserflow makes life easier, Keras is even better.
 
 # BOOKS
 * [GrokkingDL](https://www.manning.com/books/grokking-deep-learning)
-* [Neural Networks And Deep Learning by Michael Nielsen] (http://neuralnetworksanddeeplearning.com) 
-This book is more rigorous than Grokking Deep Learning and includes a lot of fun, interactive visualizations to play with.
+* [Neural Networks And Deep Learning by Michael Nielsen interactive to play with] (http://neuralnetworksanddeeplearning.com) 
 * [The Deep Learning Textbook from Ian Goodfellow](http://www.deeplearningbook.org)
 
 # Tensorflow
