@@ -3,7 +3,8 @@ Tenserflow makes life easier, Keras is even better.
 
 # BOOKS
 * [GrokkingDL](https://www.manning.com/books/grokking-deep-learning)
-* [Neural Networks And Deep Learning by Michael Nielsen] (http://neuralnetworksanddeeplearning.com) This book is more rigorous than Grokking Deep Learning and includes a lot of fun, interactive visualizations to play with.
+* [Neural Networks And Deep Learning by Michael Nielsen] (http://neuralnetworksanddeeplearning.com) 
+This book is more rigorous than Grokking Deep Learning and includes a lot of fun, interactive visualizations to play with.
 * [The Deep Learning Textbook from Ian Goodfellow](http://www.deeplearningbook.org)
 
 # Tensorflow
@@ -20,7 +21,7 @@ Tenserflow makes life easier, Keras is even better.
 
 # CNN 
 * [CS231N: CNN for Visual Recogniton](http://cs231n.github.io/neural-networks-1/#actfun)
-* [MLMastery](https://machinelearningmastery.com/category/deep-learning/)
+* [MLMastery](https://machinelearningmastery.com/category/deep-learning)
 * [Interactive Guide to DL] (http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
