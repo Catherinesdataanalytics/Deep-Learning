@@ -27,9 +27,9 @@ Tenserflow makes life easier, Keras is even better.
 * [Text Classification](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 
 # Examples
-[DLforGamePlaying](https://github.com/yenchenlin/DeepLearningFlappyBird)
-[DLforSelfDrivingCars](https://selfdrivingcars.mit.edu/deeptraffic/)
-[DLforFastStyleTransfer](https://github.com/lengstrom/fast-style-transfer)
+* [DLforGamePlaying](https://github.com/yenchenlin/DeepLearningFlappyBird)
+* [DLforSelfDrivingCars](https://selfdrivingcars.mit.edu/deeptraffic/)
+* [DLforFastStyleTransfer](https://github.com/lengstrom/fast-style-transfer)
 
 
 
