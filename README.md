@@ -31,6 +31,10 @@ Tenserflow makes life easier, Keras is even better.
 * [DLforSelfDrivingCars](https://selfdrivingcars.mit.edu/deeptraffic/)
 * [DLforFastStyleTransfer](https://github.com/lengstrom/fast-style-transfer)
 
-
+# Tuning 
+* [Using Keras Pretrained Models](https://keras.io/applications/)
+* [Imageclassificationexample](https://www.kernix.com/blog/image-classification-with-a-pre-trained-deep-neural-network_p11)
+* [FineTuning_keras](https://flyyufelix.github.io/2016/10/08/fine-tuning-in-keras-part2.html)
+* [FineTuning_tensorflow](https://www.tensorflow.org/tutorials/image_retraining)
 
 
