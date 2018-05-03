@@ -6,6 +6,9 @@ Tenserflow makes life easier, Keras is even better.
 * [Neural Networks And Deep Learning by Michael Nielsen interactive to play with](http://neuralnetworksanddeeplearning.com) 
 * [The Deep Learning Textbook from Ian Goodfellow](http://www.deeplearningbook.org)
 
+# Tutorials
+* [NNtutorials](http://speech.ee.ntu.edu.tw/~tlkagk/talk.html)
+
 # Tensorflow
 * [Try tuning parameters in Tensorflow Playground](http://playground.tensorflow.org)
 
